@@ -1,0 +1,22 @@
+/* *{
+    border: 1px solid grey;
+} */
+
+header{
+    border: 2px solid red;
+}
+
+main{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.dates{
+    border: 2px solid red;
+}
+
+.imgsize{
+    width: 150px;
+    height: auto;
+}
